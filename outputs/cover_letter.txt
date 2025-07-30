@@ -1,0 +1,17 @@
+Here is a tailored cover letter:
+
+Dear Hiring Manager,
+
+I am excited to apply for the [Job Title] role at [Company Name], as advertised. With a strong foundation in Software Engineering and a passion for Artificial Intelligence, I am confident that my skills and experience make me an ideal fit for this position.
+
+As a detail-oriented and practical AI learner, I have developed a unique ability to solve real business problems through simple and effective solutions. My Master's degree in Artificial Intelligence (in progress) from Lahore University of Management Sciences (LUMS) has equipped me with a deep understanding of Machine Learning, Deep Learning, and Natural Language Processing concepts. My Bachelor's degree in Software Engineering from the University of Lahore has provided me with a solid foundation in software development principles.
+
+Throughout my academic and professional journey, I have developed a range of technical skills, including Data Manipulation, Generative AI, Multi-Agent Systems, and Transformers (Hugging Face). I am proficient in Python and have experience with FAISS, LangChain, Retrieval-Augmented Generation, and LLM Orchestration. My certifications in LangChain, Hugging Face Transformers, AssemblyAI, and Groq demonstrate my commitment to staying up-to-date with the latest AI tools and technologies.
+
+My project experience has allowed me to apply my skills to real-world problems. For instance, I built a full-stack AI system to analyze call center audio, which involved transcribing calls, tracking speakers, and detecting emotions. I also developed a chatbot to answer questions from YouTube transcripts using LangChain, FAISS, and OpenAI's language models. Additionally, I have experience with building LSTM and GRU models from scratch to forecast PM2.5 levels.
+
+I am excited about the opportunity to bring my skills and experience to [Company Name] and contribute to the success of the team. Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+
+Muhammad Talha Nasir

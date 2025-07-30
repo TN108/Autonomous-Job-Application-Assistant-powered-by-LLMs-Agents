@@ -1,0 +1,31 @@
+# === LangChain Ecosystem ===
+langchain==0.1.20
+langchain-groq==0.1.4
+langgraph==0.0.40
+
+# === LangSmith (Optional) ===
+langsmith==0.1.19
+
+# === LLM Utilities ===
+PyPDF2==3.0.1
+tavily-python==0.3.1
+chromadb==0.4.24
+python-dotenv==1.0.1
+
+# === Scoring / Matching ===
+scikit-learn==1.5.0
+sentence-transformers==2.6.1  # ✅ For semantic similarity using MiniLM
+
+# === Web Scraping ===
+beautifulsoup4==4.12.3
+lxml==5.2.1
+requests==2.32.3
+selenium==4.21.0
+webdriver-manager==4.0.1
+selenium-stealth==1.0.6
+
+# === UI + Dev Experience ===
+gradio==4.24.0
+tqdm==4.66.4
+rich==13.7.1
+streamlit
