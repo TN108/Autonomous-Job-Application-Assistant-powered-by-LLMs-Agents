@@ -18,6 +18,8 @@ This project simulates an intelligent job-seeking agent. Just upload your CV and
 ---
 
 ## 🧠 Technologies Used
+---
+```bash
 
 | Component                  | Stack                                    |
 |---------------------------|------------------------------------------|
@@ -27,7 +29,7 @@ This project simulates an intelligent job-seeking agent. Just upload your CV and
 | Cover Letter Generation   | `Groq`, `LangChain`                      |
 | Interface                 | `Streamlit`                              |
 | Dependency Management     | `uv`, `venv`, `requirements.txt`         |
-
+```
 ---
 
 ## ⚙️ Project Structure
