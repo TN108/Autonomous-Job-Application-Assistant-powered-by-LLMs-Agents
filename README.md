@@ -40,6 +40,7 @@ autonomous_job_assistant/
 │ ├── cv_analyzer.py # Extracts data from PDF resumes
 │ ├── job_analyzer.py # Parses and analyzes job descriptions
 │ └── cover_letter_writer.py # Writes personalized cover letters
+  └──  match_score.py # Match scoring logic (LLM + cosine similarity)
 │
 ├── tools/
 │ └── job_search_tavily.py # Uses Tavily to fetch job links and descriptions
@@ -47,8 +48,6 @@ autonomous_job_assistant/
 ├── data/ # Stores intermediate CV & job data
 │
 ├── run_optimizer_streamlit.py # Full Streamlit app
-├── run_optimizer_cli.py # CLI version (optional)
-├── match_score.py # Match scoring logic (LLM + cosine similarity)
 └── requirements.txt # All dependencies
 ```
 ---
