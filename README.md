@@ -32,25 +32,6 @@ This project simulates an intelligent job-seeking agent. Just upload your CV and
 ```
 ---
 
-## ⚙️ Project Structure
-```bash
-autonomous_job_assistant/
-│
-├── agents/
-│ ├── cv_analyzer.py # Extracts data from PDF resumes
-│ ├── job_analyzer.py # Parses and analyzes job descriptions
-│ └── cover_letter_writer.py # Writes personalized cover letters
-  └──  match_score.py # Match scoring logic (LLM + cosine similarity)
-│
-├── tools/
-│ └── job_search_tavily.py # Uses Tavily to fetch job links and descriptions
-│
-├── data/ # Stores intermediate CV & job data
-│
-├── run_optimizer_streamlit.py # Full Streamlit app
-└── requirements.txt # All dependencies
-```
----
 
 ## 🛠️ How to Run
 
