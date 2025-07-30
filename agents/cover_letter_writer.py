@@ -35,7 +35,7 @@ Use a formal yet engaging tone. Address it to the Hiring Manager. Do NOT invent 
 Now write a personalized cover letter.
 """)
 
-# ✅ Updated function
+# Updated function
 def generate_cover_letter(cv_data: dict, job_data: list) -> str:
     if not job_data:
         raise ValueError("❌ job_data list is empty.")
