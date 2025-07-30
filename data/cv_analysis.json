@@ -1,0 +1,33 @@
+{
+  "fullName": "MUHAMMAD TALHA NASIR",
+  "emailAddress": "nasirt523@gmail.com",
+  "phoneNumber": "0315-4205341",
+  "location": "Lahore",
+  "education": [
+    {
+      "degree": "Bachelor of Science in Software Engineering",
+      "university": "University of Lahore"
+    },
+    {
+      "degree": "Master of Science in Artificial Intelligence (In Progress)",
+      "university": "Lahore University of Management Sciences (LUMS)"
+    }
+  ],
+  "technicalSkills": "Data Manipulation, Generative AI, Multi-Agent Systems, Transformers (Hugging Face), LangChain, Retrieval-Augmented Generation, LLM Orchestration, Python, FAISS",
+  "projects": [
+    {
+      "title": "AI-Powered Call Center Evaluation System",
+      "description": "Built a full-stack AI system to analyze call center audio by transcribing calls, tracking speakers and detecting emotions."
+    },
+    {
+      "title": "YouTube Transcript QA Chatbot",
+      "description": "Developed a chatbot to answer questions from YouTube transcripts using LangChain, FAISS, and OpenAI\u2019s language models."
+    },
+    {
+      "title": "Air Quality Forecasting with LSTM & GRU",
+      "description": "Built LSTM and GRU models from scratch using NumPy to forecast PM2.5 levels, then re-implemented them using PyTorch\u2019s RNN modules for performance comparison."
+    }
+  ],
+  "certificationsOrTools": "LangChain, Hugging Face Transformers, AssemblyAI, Groq",
+  "personalSummary": "AI learner with a practical mindset, focused on solving real business problems through simple and effective solutions. With a strong understanding of Machine Learning (ML), Deep Learning (DL) and Natural Language Processing (NLP) concepts."
+}

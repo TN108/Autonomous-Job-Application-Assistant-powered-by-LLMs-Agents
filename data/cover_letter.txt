@@ -1,0 +1,16 @@
+Here is a tailored cover letter:
+
+Dear Hiring Manager,
+
+I am excited to apply for the Senior Analyst, Risk Data Scientist position in the Greater Montreal Metropolitan Area. As a detail-oriented and results-driven AI learner with a strong background in Machine Learning, Deep Learning, and Natural Language Processing, I am confident that my skills and experience make me an ideal fit for this 24-month contract role.
+
+With a Bachelor of Science in Software Engineering from the University of Lahore and currently pursuing a Master of Science in Artificial Intelligence from Lahore University of Management Sciences (LUMS), I possess a solid foundation in data science and statistics. My proficiency in Python, coupled with experience in working with large datasets, enables me to extract valuable insights and develop predictive models that drive business outcomes.
+
+In my previous projects, I have successfully applied machine learning concepts to solve real-world problems. For instance, my AI-Powered Call Center Evaluation System demonstrated my ability to analyze complex data and develop practical solutions. Similarly, my YouTube Transcript QA Chatbot project showcased my expertise in natural language processing and ability to integrate cutting-edge technologies like LangChain and FAISS.
+
+I am particularly drawn to this role because of the opportunity to leverage my skills in risk modeling and contribute to the financial sector. Although I don't have direct experience in the financial sector, my strong understanding of statistical modeling and machine learning algorithms prepares me to quickly adapt to the requirements of this position.
+
+I am excited about the prospect of joining your team and contributing my skills and experience to drive business success. Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+MUHAMMAD TALHA NASIR
