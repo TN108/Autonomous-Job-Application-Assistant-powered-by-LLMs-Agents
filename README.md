@@ -33,6 +33,7 @@ This project simulates an intelligent job-seeking agent. Just upload your CV and
 ---
 
 ## ⚙️ Project Structure
+```bash
 autonomous_job_assistant/
 │
 ├── agents/
@@ -49,7 +50,7 @@ autonomous_job_assistant/
 ├── run_optimizer_cli.py # CLI version (optional)
 ├── match_score.py # Match scoring logic (LLM + cosine similarity)
 └── requirements.txt # All dependencies
-
+```
 ---
 
 ## 🛠️ How to Run
@@ -82,6 +83,7 @@ TAVILY_API_KEY=your_tavily_key
    streamlit run run_optimizer_streamlit.py
    ```
 ## Errors Faced (And Solved!)
+```bash
 | Day | Error                          | Solution                                         |
 | --- | ------------------------------ | ------------------------------------------------ |
 | 1   | Groq import error              | Verified env vars and Groq SDK installation      |
@@ -89,7 +91,7 @@ TAVILY_API_KEY=your_tavily_key
 | 3   | `search_jobs()` param mismatch | Synced function definitions                      |
 | 4   | Slow pip install               | Switched to `uv` for fast resolution             |
 | 5   | Streamlit warnings             | Used `streamlit run` instead of `python file.py` |
-
+```
 ## 🌱 Future Work
 Add support for multiple jobs + batch cover letter generation
 
